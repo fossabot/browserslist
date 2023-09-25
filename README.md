@@ -1,4 +1,5 @@
 # Browserslist [![Cult Of Martians][cult-img]][cult]
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzyw114%2Fbrowserslist.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzyw114%2Fbrowserslist?ref=badge_shield)
 
 <img width="120" height="120" alt="Browserslist logo by Anton Popov"
      src="https://browsersl.ist/logo.svg" align="right">
@@ -725,3 +726,7 @@ you use. [Learn more.](https://tidelift.com/subscription/pkg/npm-browserslist?ut
 ## Browsers Data Updating
 
 See [`update-browserslist-db` docs](https://github.com/browserslist/update-db#readme)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzyw114%2Fbrowserslist.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzyw114%2Fbrowserslist?ref=badge_large)
